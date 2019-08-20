@@ -1,0 +1,63 @@
+GET_SW_VER
+
+[158] GET_SW_VER: Returns the software version of tv, ex: GET_SW_VER
+-----------------------------------------------------------------------
+#*SW_VER: V.0.28.0.0
+testtool > GET_SW_VER
+
+[158] GET_SW_VER: Returns the software version of tv, ex: GET_SW_VER
+-----------------------------------------------------------------------
+#*SW_VER: V.0.28.0.0
+testtool > GET_SW_VER
+
+[158] GET_SW_VER: Returns the software version of tv, ex: GET_SW_VER
+-----------------------------------------------------------------------
+#*SW_VER: V.0.28.0.0
+testtool > GET_SW_VER
+
+[158] GET_SW_VER: Returns the software version of tv, ex: GET_SW_VER
+-----------------------------------------------------------------------
+#*SW_VER: V.0.28.0.0
+testtool > GET_SW_VER
+
+[158] GET_SW_VER: Returns the software version of tv, ex: GET_SW_VER
+-----------------------------------------------------------------------
+#*SW_VER: V.0.28.0.0
+testtool > GET_SW_VER
+
+[158] GET_SW_VER: Returns the software version of tv, ex: GET_SW_VER
+-----------------------------------------------------------------------
+#*SW_VER: V.0.28.0.0
+testtool > GET_SW_VER
+
+[158] GET_SW_VER: Returns the software version of tv, ex: GET_SW_VER
+-----------------------------------------------------------------------
+#*SW_VER: V.0.28.0.0
+testtool > GET_SW_VER
+
+[158] GET_SW_VER: Returns the software version of tv, ex: GET_SW_VER
+-----------------------------------------------------------------------
+#*SW_VER: V.0.28.0.0
+testtool > GET_SW_VER
+
+[158] GET_SW_VER: Returns the software version of tv, ex: GET_SW_VER
+-----------------------------------------------------------------------
+#*SW_VER: V.0.28.0.0
+testtool > GET_SW_VER
+
+[158] GET_SW_VER: Returns the software version of tv, ex: GET_SW_VER
+-----------------------------------------------------------------------
+#*SW_VER: V.0.28.0.0
+testtool > getHalDemodUserChannelStatus: Fail to get checkHalDemodUserLock or no lock
+
+ getHalDemodUserChannelStatus failed. 
+(NIM_DTV)
+ DEV_NIM_DTV_StartTune:######freq 1549000KHz---Demod unlocked!######
+
+GET_SW_VER
+
+[0m[158] GET_SW_VER: Returns the software version of tv, ex: GET_SW_VER
+-----------------------------------------------------------------------
+#*SW_VER: V.0.28.0.0
+testtool > GET_SW_VER
+
